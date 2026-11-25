@@ -58,7 +58,7 @@ Star schema built on `Loan Details` and `Collection Status` as the main fact tab
 | Phase | Task | Owner |
 |---|---|---|
 | 1 | Understand the dataset and define business questions and KPIs | Whole team |
-| 2 | Clean and transform the data in Power Query (types, blanks, header rows, duplicates) | *[Your name]* |
+| 2 | Clean and transform the data in Power Query (types, blanks, header rows, duplicates) | Amal  |
 | 3 | Build the data model (relationships, star schema, Calendar table) | Engy |
 | 4 | Write DAX measures for the KPIs | Mina |
 | 5 | Answer business questions with SQL (sections A–E) | Youssef |
@@ -90,7 +90,7 @@ Star schema built on `Loan Details` and `Collection Status` as the main fact tab
   - **D. Visits & Documents** – visit outcomes, missing documents, documents vs approval rate (D1–D3)
   - **E. Customer Risk** – risk scorecard and customers per risk level (E1–E2)
 
-**[Your name] – Data Cleaning**
+**Amal – Data Cleaning**
 - Cleaned and prepared the raw data with Power Query inside Power BI before modelling.
 
 ---
@@ -132,7 +132,7 @@ Star schema built on `Loan Details` and `Collection Status` as the main fact tab
 ---
 
 ## Instructor
-*[Instructor name]*
+Adham osama
 
 ---
 
