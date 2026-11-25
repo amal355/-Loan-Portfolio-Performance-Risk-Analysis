@@ -47,7 +47,7 @@ Star schema built on `Loan Details` and `Collection Status` as the main fact tab
 | Engy | Data Model & Dashboard (Power BI, Excel) |
 | Mina | Python Analysis & DAX |
 | Youssef | SQL Analysis |
-| *[Your name]* | Data Cleaning (Power Query) |
+| Amal| Data Cleaning (Power Query) |
 
 > Replace the names with full names if required by the instructor.
 
