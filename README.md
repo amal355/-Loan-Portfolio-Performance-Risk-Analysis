@@ -49,7 +49,6 @@ Star schema built on `Loan Details` and `Collection Status` as the main fact tab
 | Youssef | SQL Analysis & tableau |
 | Amal| Data Cleaning (Power Query) |
 
-> Replace the names with full names if required by the instructor.
 
 ---
 
@@ -66,7 +65,6 @@ Star schema built on `Loan Details` and `Collection Status` as the main fact tab
 | 7 | Build the Power BI dashboard and Excel report | Engy |
 | 8 | Review, document (this README) and present | Whole team |
 
-> Add the dates for each phase if the instructor asks for a timeline.
 
 ---
 
