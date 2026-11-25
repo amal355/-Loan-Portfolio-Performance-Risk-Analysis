@@ -1,3 +1,6 @@
+## Python -
+https://colab.research.google.com/drive/1sFGuUk6dRZRTB_YWUKSEPVuPrH8aLfR5
+
 # Loan Portfolio Performance & Risk Analysis
 
 ## Project Name
@@ -156,5 +159,4 @@ Power Query · Power BI (data model, DAX, dashboard) · Excel · SQL Server (T-S
 
 
 
-## Python -
-https://colab.research.google.com/drive/1sFGuUk6dRZRTB_YWUKSEPVuPrH8aLfR5
+
