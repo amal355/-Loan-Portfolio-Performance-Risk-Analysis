@@ -154,3 +154,9 @@ Star schema built on `Loan Details` and `Collection Status` as the main fact tab
 
 ### Tools
 Power Query · Power BI (data model, DAX, dashboard) · Excel · SQL Server (T-SQL) · Python
+
+
+
+
+## Python -
+https://colab.research.google.com/drive/1sFGuUk6dRZRTB_YWUKSEPVuPrH8aLfR5
